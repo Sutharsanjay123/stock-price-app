@@ -36,28 +36,30 @@ If requirements.txt is missing, install manually:
 pip install streamlit pandas plotly matplotlib
 3. Run the App
 streamlit run stock_stream_app.py
+
 ---
-##📂 CSV Format Expected
+## 📂 CSV Format Expected
 Each CSV should contain at least the following:
 Date (YYYY-MM-DD or similar)
 One of: Close, Last, or Prev Close
 Optional: Open, High, Low, Volume
+---
 
-##🌐 Live Chart Examples
+## 🌐 Live Chart Examples
 You can enter these symbols to test live TradingView charts:
 NSE:TCS
 NASDAQ:AAPL
 BSE:RELIANCE
 NYSE:TSLA
 ---
-##📸 UI Preview
+## 📸 UI Preview
 <img width="1897" height="586" alt="Screenshot 2025-07-14 234602" src="https://github.com/user-attachments/assets/750ad207-c2d3-403a-9132-386a1841c7fe" />
 
 ---
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first.
 ---
-##🙋‍♂️ Author
+## 🙋‍♂️ Author
 Suthar Sanjay
 📧 sutharsanjay123@example.com
 🔗 GitHub
