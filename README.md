@@ -27,8 +27,7 @@ A visually rich and interactive **Streamlit web app** for analyzing, comparing, 
 
 ## 📁 How to Use
 
-### 1. Clone the Repository
-```bash
+ 1. Clone the Repository
 git clone https://github.com/Sutharsanjay123/stock-price-app.git
 cd stock-price-app
 2. Install Requirements
@@ -47,7 +46,8 @@ bash
 Copy
 Edit
 streamlit run stock_stream_app.py
-📂 CSV Format Expected
+---
+##📂 CSV Format Expected
 Each CSV should contain at least the following:
 
 Date (YYYY-MM-DD or similar)
@@ -56,14 +56,8 @@ One of: Close, Last, or Prev Close
 
 Optional: Open, High, Low, Volume
 
-Example:
 
-mathematica
-Copy
-Edit
-Date,Open,High,Low,Close,Volume
-2024-01-01,2300,2350,2290,2340,1200000
-🌐 Live Chart Examples
+##🌐 Live Chart Examples
 You can enter these symbols to test live TradingView charts:
 
 NSE:TCS
@@ -77,9 +71,6 @@ NYSE:TSLA
 📸 UI Preview
 Add screenshots of your app running here for better visual appeal.
 
-🛡️ License
-MIT License – free to use and modify.
-
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first.
 
@@ -87,12 +78,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 Suthar Sanjay
 📧 sutharsanjay123@example.com
 🔗 GitHub
-
-yaml
-Copy
-Edit
-
----
-
-Would you like me to create a `requirements.txt` for this app as well?
 
