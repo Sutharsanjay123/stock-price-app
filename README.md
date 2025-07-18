@@ -61,6 +61,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 ---
 ## 🙋‍♂️ Author
 Suthar Sanjay
-📧 sutharsanjay123@example.com
+📧 [sutharsanjay123](https://github.com/Sutharsanjay123)
 🔗 GitHub
 
